@@ -1,0 +1,12 @@
+[submodule "sm_libraries"]
+	path = sm_libraries
+	url = ./sm_libraries
+	branch = master
+[submodule "StylesheetEditor"]
+	path = StylesheetEditor
+	url = ./StylesheetEditor
+	branch = master
+[submodule "sm_libraries_examples"]
+	path = sm_libraries_examples
+	url = ./sm_libraries_examples
+	branch = master
